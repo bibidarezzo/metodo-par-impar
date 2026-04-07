@@ -1,6 +1,7 @@
 # metodo-par-impar
 
 -> Verificador de Número Par ou Ímpar (Java)
+
 O programa solicita ao usuário que digite um número e informa se ele é par ou ímpar.
 
 -Sobre o projeto: Este é um projeto simples desenvolvido em Java com o objetivo de praticar o uso de métodos.
